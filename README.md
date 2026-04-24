@@ -1,6 +1,10 @@
 # 👨🏻‍💻 Lucas Petry
 
-**`Analista e Engenheiro de dados`**
+<p align="right">
+  <img src="https://github.com/LucasgPetry/LucasgPetry/blob/main/snoopy_coding.gif" width="100px" alt="commit gif looping" align="right" />
+</p>
+
+**`Analista e Engenheiro de dados`** 
 
 ## 🫡 Saudações, seja bem vindo ao meu perfil!
 Estou graduando em Ciência de Dados pelo Centro Universitário de Brasília e busco desenvolver minhas habilidades em engenharia e análise de dados com projetos reais. Busco me aprofundar em IA e Cloud Computing com foco em 
