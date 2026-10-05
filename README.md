@@ -74,7 +74,7 @@ Graduando em **Ciência de Dados e Machine Learning no UniCEUB**, com foco em en
 
 ### Portfólio
 
-🌐 [Acesse aqui]([https://seu-link.com](https://lucasgpetry.github.io/))
+🌐 [Acesse aqui](https://seu-link.com](https://lucasgpetry.github.io/)
 
 ### 🌐 Conecte-se comigo
 
