@@ -7,8 +7,7 @@
 **`Analista e Engenheiro de dados`** 
 
 ## 🫡 Saudações, seja bem vindo ao meu perfil!
-Estou graduando em Ciência de Dados pelo Centro Universitário de Brasília e busco desenvolver minhas habilidades em engenharia e análise de dados com projetos reais. Busco me aprofundar em IA e Cloud Computing com foco em 
-desenvolver soluções Data Driven que auxiliem na tomada de decisão estratégica. 
+Graduando em **Ciência de Dados e Machine Learning no UniCEUB**, com foco em engenharia e análise de dados, IA e Cloud Computing. Desenvolvo projetos ponta a ponta que passam por ingestão, transformação, modelagem, APIs, machine learning e visualização, buscando construir soluções data-driven para apoiar decisões com contexto. 
 
 ### 🤖 Tecnologias e ferramentas 
 
@@ -73,6 +72,9 @@ desenvolver soluções Data Driven que auxiliem na tomada de decisão estratégi
 <br/>
 <br/>
 
+### Portfólio
+
+🌐 [Acesse aqui]([https://seu-link.com](https://lucasgpetry.github.io/))
 
 ### 🌐 Conecte-se comigo
 
